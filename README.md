@@ -1,4 +1,4 @@
-***-download https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/raw/main/KMPlayer%20Compact%20Skin.rar***
+***-download https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/raw/main/Skin.rar***
 
 "White Blue" color theme (RGB 30,40,50)
 
