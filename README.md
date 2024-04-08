@@ -3,8 +3,19 @@
 "White Blue" color theme (RGB 30,40,50)
 
 -for up to 150% system DPI
-
-![AUDIO - BIG](https://user-images.githubusercontent.com/127822397/224918847-f60a3dac-ed4f-4715-912c-fa519ba50cb7.jpg)
-![AUDIO - COMPACT](https://user-images.githubusercontent.com/127822397/224918851-57f5a718-5abf-43d2-80f2-7d0c43f4bf6e.jpg)
-![AUDIO - COMPACT SUPER](https://user-images.githubusercontent.com/127822397/224918854-a33c7863-420a-4eb7-85a4-4effad42898b.jpg)
-![VIDEO](https://user-images.githubusercontent.com/127822397/224918856-e25fe3c1-e517-4a82-b064-7193d9d706a8.jpg)
+<br/>
+<br/>
+<br/>
+Audio
+<br/>
+<img width="359" alt="AUDIO - BIG" src="https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/assets/127822397/c5e2f4e4-5fc0-429a-bb34-22e16ba263c4">
+<br/>
+<img width="128" alt="AUDIO - COMPACT" src="https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/assets/127822397/4fb9edd4-a916-40b6-a826-24b43583c162">
+<br/>
+<img width="64" alt="AUDIO - COMPACT SUPER" src="https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/assets/127822397/6846e787-d9de-4403-b418-f879d75d3003">
+<br/>
+<br/>
+<br/>
+Video
+<br/>
+<img width="1280" alt="VIDEO" src="https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/assets/127822397/3eef5c97-5d63-43f2-a229-5b459e3430f1">
