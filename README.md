@@ -18,4 +18,4 @@ Audio
 <br/>
 Video
 <br/>
-<img width="1280" alt="VIDEO" src="https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/assets/127822397/3eef5c97-5d63-43f2-a229-5b459e3430f1">
+<img width="1280" alt="VIDEO3" src="https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/assets/127822397/fda73216-321e-4424-a3af-b7bb4568815a">
