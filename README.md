@@ -6,9 +6,13 @@
 <br/>
 <br/>
 <br/>
-Audio
+Audio - skin
 <br/>
 <img width="359" alt="AUDIO - BIG" src="https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/assets/127822397/c5e2f4e4-5fc0-429a-bb34-22e16ba263c4">
+<br/>
+Audio - default
+<br/>
+<img width="356" alt="AUDIO - BIG-DEF" src="https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/assets/127822397/9126875b-991f-4f0d-b0b5-151e1b6d6ab4">
 <br/>
 <img width="128" alt="AUDIO - COMPACT" src="https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/assets/127822397/4fb9edd4-a916-40b6-a826-24b43583c162">
 <br/>
@@ -16,6 +20,10 @@ Audio
 <br/>
 <br/>
 <br/>
-Video
+Video - skin
 <br/>
 <img width="1280" alt="VIDEO3" src="https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/assets/127822397/fda73216-321e-4424-a3af-b7bb4568815a">
+<br/>
+Video - default
+<br/>
+<img width="1280" alt="VIDEO-DEF" src="https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/assets/127822397/fe0a3872-6b27-4861-bc64-9034a05d11e6">
