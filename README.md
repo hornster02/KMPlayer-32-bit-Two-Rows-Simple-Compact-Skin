@@ -20,6 +20,14 @@ Audio - default
 <br/>
 <br/>
 <br/>
+Just reducing the gamma in the system makes the original skin quite unusable. Combined with the brightness and contrast reduction, it is almost invisible
+<br/>
+<img width="359" alt="AUDIO - BIG-GAMMA" src="https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/assets/127822397/a666afef-4a1b-4986-a04c-5e3a682501b5">
+<br/>
+<img width="356" alt="AUDIO - BIG-DEF-GAMMA" src="https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/assets/127822397/7b168bc9-4096-4c8c-a725-c9d2734efa42">
+<br/>
+<br/>
+<br/>
 Video - skin
 <br/>
 <img width="1280" alt="VIDEO3" src="https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/assets/127822397/fda73216-321e-4424-a3af-b7bb4568815a">
