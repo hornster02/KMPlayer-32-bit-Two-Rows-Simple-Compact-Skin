@@ -1,4 +1,4 @@
-💾***https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/raw/main/Skin.rar***
+💾***https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/raw/main/skin.rar***
 
 ***Autohotkey v1.1 (KMP 4.2.2.51 - 2021 + Win7)
 <br/>
