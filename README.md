@@ -4,7 +4,7 @@
 <br/>
 💾https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/raw/main/script.rar***
 
-Default KMP problems with loss of focus when you must use ALT+TAB or mouse are solved. Some of the hotkeys listed below are not supported by KMP at all and you have to painfully click through the context menu
+Default KMP problems with loss of focus when you must use ALT+TAB or mouse are solved. Some of the hotkeys listed below are not supported by KMP at all and you have to painfully click through the context menu. English QWERTY keyboard layout
 
 Multimedia keys - DISABLED - missing default global hotkeys in KMP *00
 <br/>
