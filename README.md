@@ -59,8 +59,6 @@ Multimedia keys - DISABLED - missing default global hotkeys in KMP *00
 ***C*** zoom reset
 <br/>
 ***PgUp*** acpect ratio cycle                                                                                              ```hold``` acpect ratio reset
-<br/>
-***PgUp*** KMP64X - acpect ratio cycle (DISABLED, missing default hotkey *02)    ```hold``` acpect ratio reset
 
 ***Enter*** Maximize/Restore Window, ***1234*** window size
 <br/>
