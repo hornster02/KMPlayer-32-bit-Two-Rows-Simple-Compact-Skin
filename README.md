@@ -32,7 +32,7 @@ Multimedia keys - DISABLED - missing default global hotkeys in KMP *00
 <br/>
 ***Numpad2*** audio +0,05s - DISABLED, missing default hotkey
 
-***Numpad3*** list of audio streams (the default one is marked first)                        ```hold``` list of subtitles (the default one is marked first)       /// unfortunately ***NumpadDot*** illogically works as a down arrow, because as written below, the up/down arrow is pressed 5 times for volume
+***Numpad3*** list of audio streams (the default one is marked first)                        ```hold``` list of subtitles (the default one is marked first), unfortunately ***NumpadDot*** illogically works as a down arrow, because as written below, the up/down arrow is pressed 5 times for volume
 
 ***B*** add bookmark                                                                                                       ```hold``` open "bookmark editor"
 <br/>
