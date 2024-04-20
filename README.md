@@ -52,7 +52,7 @@ Multimedia keys - DISABLED - missing default global hotkeys in KMP *00
 
 ***ESC*** pause+minimize                                                                                               ```hold``` close file
 
-***Y*** zoom -
+***Z*** zoom -
 <br/>
 ***X*** zoom +
 <br/>
