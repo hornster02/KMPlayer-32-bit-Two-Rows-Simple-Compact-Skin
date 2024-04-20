@@ -1,8 +1,72 @@
-***-download https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/raw/main/Skin.rar***
+💾***https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/raw/main/Skin.rar***
 
-"White Blue" color theme (RGB 30,40,50)
+***Autohotkey v1.1 (KMP 4.2.2.51 - 2021 + Win7)
+<br/>
+💾https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/raw/main/script.rar***
 
--for up to 150% system DPI
+Default KMP problems with loss of focus when you must use ALT+TAB or mouse are solved. Some of the hotkeys listed below are not supported by KMP at all and you have to painfully click through the context menu
+
+Multimedia keys - DISABLED - missing default global hotkeys in KMP *00
+<br/>
+***Media Play Pause*** starts/pauses playback                     ```hold``` to close KMP
+<br/>
+***Volume Down*** reduces the volume                             ```hold``` to open previous file
+<br/>
+***Volume Up*** increase the volume                                ```hold``` to open next file
+
+***MButton*** show taskbar                                               ```hold``` Always On Top (toggle)
+<br/>
+***ALT+SHIFT*** reduce the active window to half the screen and align it right or left or maximize it - global hotkey
+<br/>
+***LButton+MButton*** dragging the window, no need to ```hold``` down the MButton - global hotkey
+
+***Numpad4*** subtitle -0,5s
+<br/>
+***Numpad5*** subtitle +0,5s
+<br/>
+***Numpad6*** open "Adjust Subtitle Sync"                                                                ```hold``` show/hide subtitle
+<br/>
+***Enter*** if "Adjust Subtitle Sync" is active, then the written numbers are set        ```hold``` closes "Adjust Subtitle Sync"
+
+***Numpad1*** audio -0,05s - DISABLED, missing default hotkey *01
+<br/>
+***Numpad2*** audio +0,05s - DISABLED, missing default hotkey
+
+***Numpad3*** list of audio streams (the default one is marked first)                        ```hold``` list of subtitles (the default one is marked first)       /// unfortunately ***NumpadDot*** illogically works as a down arrow, because as written below, the up/down arrow is pressed 5 times for volume
+
+***B*** add bookmark                                                                                                       ```hold``` open "bookmark editor"
+<br/>
+***Enter*** if "bookmark editor" is active then "Enter" opens the selected (arrows) bookmark and closes "bookmark editor"
+<br/>
+***Del*** if "bookmark editor" is active then "Del" remove selected (arrows) bookmark, ```hold``` closes "bookmark editor"
+<br/>
+***P*** open/close playlist
+
+***Left*** previous file
+<br/>
+***Right*** next file
+
+***Down*** volume -5%
+<br/>
+***Up*** volume +5%
+
+***ESC*** pause+minimize                                                                                               ```hold``` close file
+
+***Y*** zoom -
+<br/>
+***X*** zoom +
+<br/>
+***C*** zoom reset
+<br/>
+***PgUp*** acpect ratio cycle                                                                                              ```hold``` acpect ratio reset
+<br/>
+***PgUp*** KMP64X - acpect ratio cycle (DISABLED, missing default hotkey *02)    ```hold``` acpect ratio reset
+
+***Enter*** Maximize/Restore Window, ***1234*** window size
+<br/>
+<br/>
+<br/>
+"White Blue" color theme (RGB 30,40,50). For up to 150% system DPI
 <br/>
 <br/>
 <br/>
