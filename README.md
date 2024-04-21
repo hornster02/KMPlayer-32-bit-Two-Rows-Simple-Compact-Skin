@@ -12,6 +12,8 @@ Default KMP problems with loss of focus when you must use ALT+TAB or mouse are s
 
 Multimedia keys - DISABLED - missing default global hotkeys in KMP *00
 <br/>
+🟩 KMP64X doesn't support global hotkeys
+<br/>
 ***Media Play Pause*** starts/pauses playback                     ```hold``` to close KMP
 <br/>
 ***Volume Down*** reduces the volume                             ```hold``` to open previous file
@@ -24,19 +26,21 @@ Multimedia keys - DISABLED - missing default global hotkeys in KMP *00
 <br/>
 ***LButton+MButton*** dragging the window, no need to ```hold``` down the MButton - global hotkey
 
-***Numpad4*** subtitle -0,5s
+***Numpad4*** subtitle -0,5s 🟩 KMP64X (Options / Subtitles / delay step)
 <br/>
 ***Numpad5*** subtitle +0,5s
 <br/>
-***Numpad6*** open "Adjust Subtitle Sync"                                                                ```hold``` show/hide subtitle
+***Numpad6*** open "Adjust Subtitle Sync" 🟩 KMP64X doesn't support,                                                               ```hold``` show/hide subtitle
 <br/>
 ***Enter*** if "Adjust Subtitle Sync" is active, then the written numbers are set        ```hold``` closes "Adjust Subtitle Sync"
 
-***Numpad1*** audio -0,05s - DISABLED, missing default hotkey *01
+***Numpad1*** audio -0,05s 🟩 KMP64X -0,01s
 <br/>
-***Numpad2*** audio +0,05s - DISABLED, missing default hotkey
+***Numpad2*** audio +0,05s
+<br/>
+32-bit - create new NUM7 and NUM9 hotkeys in Preferences / Keys/Global Control / General / Playback / Audio Resync
 
-***Numpad3*** list of audio streams (the default one is marked first)                        ```hold``` list of subtitles (the default one is marked first), unfortunately ***NumpadDot*** illogically works as a down arrow, because as written below, the up/down arrow is pressed 5 times for volume
+***Numpad3*** list of audio streams (the default one is marked first)                        ```hold``` list of subtitles (the default one is marked first), unfortunately ***NumpadDot*** (32-bit only) illogically works as a down arrow, because as written below, the up/down arrow is pressed 5 times for volume
 
 ***B*** add bookmark                                                                                                       ```hold``` open "bookmark editor"
 <br/>
@@ -60,12 +64,16 @@ Multimedia keys - DISABLED - missing default global hotkeys in KMP *00
 <br/>
 ***X*** zoom +
 <br/>
-***C*** zoom/acpect ratio reset
-<br/>
+***C*** zoom/acpect ratio reset 🟩 KMP64X zoom reset
+
 ***PgUp*** acpect ratio cycle                                                                                              ```hold``` zoom/acpect ratio reset
 <br/>
+🟩 KMP64X (Options / Keys / Next AR preset)                                                                 ```hold``` acpect ratio reset
+
 ***Enter*** Maximize/Restore Window
 <br/>
+🟩 KMP64X - to keep the same behavior you need to change the default "Enter" to "Ins" (because KMP64X doesn't distinguish between Numpad/Enter and stubbornly performs its single default action no matter what)
+
 ***1234*** window size
 <br/>
 <br/>
