@@ -10,7 +10,7 @@
 
 Default KMP problems with loss of focus when you must use ALT+TAB or mouse are solved. Some of the hotkeys listed below are not supported by KMP at all and you have to painfully click through the context/menu
 
-Multimedia keys - DISABLED - missing default global hotkeys in KMP *00
+Multimedia keys - DISABLED - missing default global hotkeys in KMP *00 (AHK)
 <br/>
 🟩 KMP64X doesn't support global hotkeys
 <br/>
@@ -38,7 +38,7 @@ Multimedia keys - DISABLED - missing default global hotkeys in KMP *00
 <br/>
 ***Numpad2*** audio +0,05s
 <br/>
-32-bit - create new NUM7 and NUM9 hotkeys in Preferences / Keys/Global Control / General / Playback / Audio Resync
+32-bit - create new "Num7" and "Num9" hotkeys in Preferences / Keys/Global Control / General / Playback / Audio Resync
 
 ***Numpad3*** list of audio streams (the default one is marked first)                        ```hold``` list of subtitles (the default one is marked first), unfortunately ***NumpadDot*** (32-bit only) illogically works as a down arrow, because as written below, the up/down arrow is pressed 5 times for volume
 
@@ -68,7 +68,7 @@ Multimedia keys - DISABLED - missing default global hotkeys in KMP *00
 
 ***PgUp*** acpect ratio cycle                                                                                              ```hold``` zoom/acpect ratio reset
 <br/>
-🟩 KMP64X (Options / Keys / Next AR preset)                                                                 ```hold``` acpect ratio reset
+🟩 KMP64X create new "Ins" hotkey in Options / Keys / Next AR preset,                                                                 ```hold``` acpect ratio reset
 
 ***Enter*** Maximize/Restore Window
 <br/>
