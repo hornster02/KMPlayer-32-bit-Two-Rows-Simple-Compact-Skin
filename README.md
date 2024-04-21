@@ -1,8 +1,12 @@
 💾***https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/raw/main/skin.rar***
 
-***Autohotkey v1.1 (KMP 4.2.2.51 - 2021 + Win7 + English QWERTY keyboard layout)
+***Autohotkey v1.1 (KMP 4.2.2.51 - 2021 + Win7 + English QWERTY keyboard layout + CZ QWERTZ)
 <br/>
 💾https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/raw/main/script.rar***
+
+***Autohotkey v1.1 (KMP64X 2021.04.27.54 + Win7 + English QWERTY keyboard layout + CZ QWERTZ)
+<br/>
+💾https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/raw/main/script64x.rar***
 
 Default KMP problems with loss of focus when you must use ALT+TAB or mouse are solved. Some of the hotkeys listed below are not supported by KMP at all and you have to painfully click through the context/menu
 
