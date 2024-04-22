@@ -24,7 +24,7 @@ Multimedia keys - DISABLED - missing default global hotkeys in KMP (*00 AHK)
 <br/>
 ***ALT+SHIFT*** reduce the active window to half the screen and align it right or left or maximize it - global hotkey
 <br/>
-***LButton+MButton*** dragging the window, no need to ```hold``` down the MButton - global hotkey
+***LButton+MButton*** dragging the window (no need to ```hold``` down the MButton) - global hotkey
 
 ***Numpad4*** subtitle -0,5s 🟩 KMP64X "Options / Subtitles / delay step"
 <br/>
@@ -32,7 +32,7 @@ Multimedia keys - DISABLED - missing default global hotkeys in KMP (*00 AHK)
 <br/>
 ***Numpad6*** open "Adjust Subtitle Sync" 🟩 KMP64X doesn't support,                                                               ```hold``` show/hide subtitle
 <br/>
-***Enter*** if "Adjust Subtitle Sync" is active, then the written numbers are set        ```hold``` closes "Adjust Subtitle Sync"
+***Enter*** if "Adjust Subtitle Sync" is active then the written numbers are set,        ```hold``` closes "Adjust Subtitle Sync"
 
 ***Numpad1*** audio -0,05s 🟩 KMP64X -0,01s
 <br/>
@@ -40,7 +40,7 @@ Multimedia keys - DISABLED - missing default global hotkeys in KMP (*00 AHK)
 <br/>
 32-bit - create new "Num7" and "Num9" hotkeys in "Preferences / Keys/Global Control / General / Playback / Audio Resync"
 
-***Numpad3*** list of audio streams (the default one is marked first)                        ```hold``` list of subtitles (the default one is marked first), unfortunately ***NumpadDot*** (32-bit only) illogically works as a down arrow, because as written below, the up/down arrow is pressed 5 times for volume
+***Numpad3*** list of audio streams (the default one is marked first)                        ```hold``` list of subtitles (the default one is marked first), unfortunately ***NumpadDot*** (32-bit only) illogically works as a down arrow, because as written below, the up/down arrow is pressed 5 times (32-bit only) for volume
 
 ***B*** add bookmark                                                                                                       ```hold``` open "bookmark editor"
 <br/>
@@ -48,7 +48,7 @@ Multimedia keys - DISABLED - missing default global hotkeys in KMP (*00 AHK)
 <br/>
 ***Del*** if "bookmark editor" is active then "Del" remove selected (arrows) bookmark, ```hold``` closes "bookmark editor"
 <br/>
-***P*** open/close playlist
+***P*** open/close playlist (arrows+Enter)
 
 ***Left*** previous file
 <br/>
@@ -60,15 +60,15 @@ Multimedia keys - DISABLED - missing default global hotkeys in KMP (*00 AHK)
 
 ***ESC*** pause+minimize                                                                                               ```hold``` close file
 
-***Z*** zoom -
+***Z*** zoom - (letterbox)
 <br/>
-***X*** zoom +
+***X*** zoom + (letterbox)
 <br/>
 ***C*** zoom/acpect ratio reset 🟩 KMP64X zoom reset
 
 ***PgUp*** acpect ratio cycle                                                                                              ```hold``` zoom/acpect ratio reset
 <br/>
-🟩 KMP64X create new "Ins" hotkey in "Options / Keys / Next AR preset"                                                                 ```hold``` acpect ratio reset
+🟩 KMP64X - create new "Ins" hotkey in "Options / Keys / Next AR preset"                                                                 ```hold``` acpect ratio reset
 
 ***Enter*** Maximize/Restore Window
 <br/>
