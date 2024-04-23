@@ -137,7 +137,7 @@ ColorThemeName=str:White Blue
 <br/>
 <br/>
 
--enable multimedia hotkeys 🟧*00
+-enable+create multimedia hotkeys 🟧*00
 ```
 UseGlobalHotkey=int:1
 ConfigKeyForm=int:0
@@ -166,7 +166,7 @@ WindowHeight=int:1
 
 ***KMPKey.ini***
 <br/>
--enable hotkeys 🟧*01
+-create hotkeys 🟧*01
 ```
 [KMPKey]
 N516=K
@@ -178,7 +178,7 @@ N501=L
 
 ***KMPlayer64.ini*** (enable - options / player / store settings in...)
 <br/>
--enable hotkeys 🟦*02
+-change+create hotkeys 🟦*02
 <br/>
 ```
 [Commands2]
