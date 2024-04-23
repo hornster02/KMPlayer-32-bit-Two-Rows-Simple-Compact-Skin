@@ -120,7 +120,7 @@ AudioAutoGainType=int:2
 <br/>
 <br/>
 
-Automatically switch to fullscreen mode when you open a video file
+Automatically switch to fullscreen (autohide) mode when you open a video file
 ```
 FulledWindow=int:0
 PlayScreenSize=int:7
