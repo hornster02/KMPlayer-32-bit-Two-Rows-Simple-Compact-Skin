@@ -60,9 +60,9 @@ Multimedia keys - DISABLED - missing default global hotkeys in KMP (*00 AHK)
 
 ***ESC*** pause+minimize                                                                                               ```hold``` close file
 
-***Z*** zoom - (letterbox)
+***Z*** zoom (letterbox) -
 <br/>
-***X*** zoom + (letterbox)
+***X*** zoom (letterbox) +
 <br/>
 ***C*** zoom/acpect ratio reset 🟩 KMP64X zoom reset
 
@@ -94,8 +94,6 @@ Audio - default
 <br/>
 <img width="64" alt="AUDIO - COMPACT SUPER" src="https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/assets/127822397/6846e787-d9de-4403-b418-f879d75d3003">
 <br/>
-Permanent hiding the annoying "Album Art" that makes the player UI several times bigger is easily done in "KMPCfg.ini" (```AudioHeight=int:1``` ```UserDefPosHeight0=int:1``` ```HeightLen=int:1``` ```WindowHeight=int:1```)
-<br/>
 <br/>
 <br/>
 Just reducing the gamma in the system makes the original skin quite unusable. Combined with the brightness and contrast reduction, it is almost invisible
@@ -113,3 +111,11 @@ Video - skin
 Video - default
 <br/>
 <img width="1280" alt="VIDEO-DEF" src="https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/assets/127822397/fe0a3872-6b27-4861-bc64-9034a05d11e6">
+<br/>
+<br/>
+<br/>
+KMPCfg.ini
+
+-the best volume balance (increasing quiet passages and decreasing loud ones) is achieved with ```AudioUseAutoGain_2=int:1``` ```AudioAutoGainType=int:2```
+
+-permanent hiding the annoying "Album Art" that makes the player UI several times bigger is easily done with ```AudioHeight=int:1``` ```UserDefPosHeight0=int:1``` ```HeightLen=int:1``` ```WindowHeight=int:1```
