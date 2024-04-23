@@ -110,7 +110,7 @@ Video - default
 <br/>
 ***KMPCfg.ini*** (enable - preferences / general / store settings to...). ***Watch out for the sections***
 
--the best volume balance (increasing quiet passages and decreasing loud ones)
+The best volume balance (increasing quiet passages and decreasing loud ones)
 ```
 [\Software\KMPlayer\KMP3.0\OptionArea]
 AudioUseAutoGain_2=int:1
@@ -120,7 +120,7 @@ AudioAutoGainType=int:2
 <br/>
 <br/>
 
--automatically switch to fullscreen mode when you open a video file
+Automatically switch to fullscreen mode when you open a video file
 ```
 FulledWindow=int:0
 PlayScreenSize=int:7
@@ -129,7 +129,7 @@ PlayScreenSize=int:7
 <br/>
 <br/>
 
--white blue color theme
+White blue color theme
 ```
 ColorThemeName=str:White Blue
 ```
@@ -137,7 +137,7 @@ ColorThemeName=str:White Blue
 <br/>
 <br/>
 
--enable+create multimedia hotkeys 🟧*00
+Enable+create multimedia hotkeys 🟧*00
 ```
 UseGlobalHotkey=int:1
 ConfigKeyForm=int:0
@@ -151,7 +151,7 @@ N23=int:57417
 <br/>
 <br/>
 
--permanent hiding the annoying "Album Art" that makes the player UI several times bigger
+Permanent hiding the annoying "Album Art" that makes the player UI several times bigger
 ```
 [\Software\KMPlayer\KMP3.0]
 AudioHeight=int:1
@@ -166,7 +166,7 @@ WindowHeight=int:1
 
 ***KMPKey.ini***
 <br/>
--create hotkeys 🟧*01
+Create hotkeys 🟧*01
 ```
 [KMPKey]
 N516=K
@@ -178,7 +178,7 @@ N501=L
 
 ***KMPlayer64.ini*** (enable - options / player / store settings in...)
 <br/>
--change+create hotkeys 🟦*02
+Change+create hotkeys 🟦*02
 <br/>
 ```
 [Commands2]
