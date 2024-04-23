@@ -70,7 +70,7 @@ Multimedia keys (🟧*00) ,🟩 KMP64X doesn't support global hotkeys
 
 ***Enter*** Maximize/Restore Window
 <br/>
-🟩 KMP64X - to keep the same behavior you need to change the default "Enter" hotkey to "Ins" (or 🟦*02) because KMP64X doesn't distinguish between NumpadEnter/Enter and stubbornly performs its single default action no matter what
+🟩 KMP64X - to keep the same behavior you need to change the default "Enter" hotkey to "Ins" (or 🟦*02)
 
 ***1234*** window size
 <br/>
