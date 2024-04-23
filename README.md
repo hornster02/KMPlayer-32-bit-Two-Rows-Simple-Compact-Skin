@@ -66,7 +66,7 @@ Multimedia keys (🟧*00)
 
 ***PgUp*** acpect ratio cycle                                                                                              ```hold``` zoom/acpect ratio reset
 <br/>
-🟩 KMP64X - create new "Ins" hotkey in "Options / Keys / Next AR preset"                                                                 ```hold``` acpect ratio reset
+🟩 KMP64X - create new "end" hotkey in "Options / Keys / Next AR preset"                                                                 ```hold``` acpect ratio reset
 
 ***Enter*** Maximize/Restore Window
 <br/>
