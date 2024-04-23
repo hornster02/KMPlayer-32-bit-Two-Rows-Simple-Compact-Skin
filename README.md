@@ -10,7 +10,7 @@
 
 Default KMP problems with loss of focus when you must use ALT+TAB or mouse are solved. Some of the hotkeys listed below are not supported by KMP at all and you have to painfully click through the context/menu
 
-Multimedia keys - DISABLED - missing default global hotkeys in KMP (*00 AHK)
+Multimedia keys (*00)
 <br/>
 🟩 KMP64X doesn't support global hotkeys
 <br/>
@@ -34,12 +34,10 @@ Multimedia keys - DISABLED - missing default global hotkeys in KMP (*00 AHK)
 <br/>
 ***Enter*** if "Adjust Subtitle Sync" is active then the written numbers are set,        ```hold``` closes "Adjust Subtitle Sync"
 
-***Numpad1*** audio -0,05s 🟩 KMP64X -0,01s
+***Numpad1*** audio -0,05s (*01) 🟩 KMP64X -0,01s
 <br/>
 ***Numpad2*** audio +0,05s
 <br/>
-32-bit - create new "Num7" and "Num9" hotkeys in "Preferences / Keys/Global Control / General / Playback / Audio Resync"
-
 ***Numpad3*** list of audio streams (the default one is marked first)                        ```hold``` list of subtitles (the default one is marked first), unfortunately ***NumpadDot*** (32-bit only) illogically works as a down arrow, because as written below, the up/down arrow is pressed 5 times (32-bit only) for volume
 
 ***B*** add bookmark                                                                                                       ```hold``` open "bookmark editor"
@@ -114,7 +112,18 @@ Video - default
 <br/>
 <br/>
 <br/>
-KMPCfg.ini
+KMPCfg.ini (enable - preferences / general / store settings to...)
+
+-enable multimedia keys (*00) ```UseGlobalHotkey=int:1``` ```ConfigKeyForm=int:0``` add this code to the end if ...GlobalHotkeyList... is missing
+<br/>
+```
+
+[\Software\KMPlayer\KMP3.0\OptionArea\GlobalHotkeyList]
+N36=int:57425
+N39=int:57431
+N40=int:57413
+N23=int:57417
+```
 
 -the best volume balance (increasing quiet passages and decreasing loud ones) is achieved with ```AudioUseAutoGain_2=int:1``` ```AudioAutoGainType=int:2```
 
