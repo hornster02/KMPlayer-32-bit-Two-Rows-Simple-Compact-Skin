@@ -114,7 +114,7 @@ Video - default
 <br/>
 KMPCfg.ini (enable - preferences / general / store settings to...)
 
--enable multimedia keys (🟧*00) ```UseGlobalHotkey=int:1``` ```ConfigKeyForm=int:0``` add this code to the end if ...GlobalHotkeyList... is missing
+-enable multimedia keys (🟧*00) ```UseGlobalHotkey=int:1``` ```ConfigKeyForm=int:0``` add this entire code to the end if ...GlobalHotkeyList... is missing
 <br/>
 ```
 
@@ -135,7 +135,7 @@ N23=int:57417
 <br/>
 KMPKey.ini
 <br/>
--to enable hotkeys (🟧*01) add this code if ...KMPKey... is missing
+-to enable hotkeys (🟧*01) add this entire code if ...KMPKey... is missing
 <br/>
 ```
 [KMPKey]
