@@ -10,37 +10,35 @@
 
 Default KMP problems with loss of focus when you must use ALT+TAB or mouse are solved. Some of the hotkeys listed below are not supported by KMP at all and you have to painfully click through the context/menu
 
-Multimedia keys (🟧*00)
+Multimedia keys (🟧*00) ,🟩 KMP64X doesn't support global hotkeys
 <br/>
-🟩 KMP64X doesn't support global hotkeys
+***Media Play Pause*** starts/pauses playback,                     ```hold``` to close KMP
 <br/>
-***Media Play Pause*** starts/pauses playback                     ```hold``` to close KMP
+***Volume Down*** reduces the volume,                             ```hold``` to open previous file
 <br/>
-***Volume Down*** reduces the volume                             ```hold``` to open previous file
-<br/>
-***Volume Up*** increase the volume                                ```hold``` to open next file
+***Volume Up*** increase the volume,                                ```hold``` to open next file
 
-***MButton*** show taskbar                                               ```hold``` Always On Top (toggle)
+***MButton*** show taskbar,                                               ```hold``` Always On Top (toggle)
 <br/>
 ***ALT+SHIFT*** reduce the active window to half the screen and align it right or left or maximize it - global hotkey
 <br/>
 ***LButton+MButton*** dragging the window (no need to ```hold``` down the MButton) - global hotkey
 
-***Numpad4*** subtitle -0,5s 🟩 KMP64X "Options / Subtitles / delay step"
+***Numpad4*** subtitle -0,5s ,🟩 KMP64X "Options / Subtitles / delay step"
 <br/>
 ***Numpad5*** subtitle +0,5s
 <br/>
-***Numpad6*** open "Adjust Subtitle Sync" 🟩 KMP64X doesn't support,                                                               ```hold``` show/hide subtitle
+***Numpad6*** open "Adjust Subtitle Sync" ,🟩 KMP64X doesn't support,                                                               ```hold``` show/hide subtitle
 <br/>
 ***Enter*** if "Adjust Subtitle Sync" is active then the written numbers are set,        ```hold``` closes "Adjust Subtitle Sync"
 
-***Numpad1*** audio -0,05s (🟧*01) 🟩 KMP64X -0,01s
+***Numpad1*** audio -0,05s (🟧*01) ,🟩 KMP64X -0,01s
 <br/>
 ***Numpad2*** audio +0,05s
 <br/>
-***Numpad3*** list of audio streams (the default one is marked first)                        ```hold``` list of subtitles (the default one is marked first), unfortunately ***NumpadDot*** (32-bit only) illogically works as a down arrow, because as written below, the up/down arrow is pressed 5 times (32-bit only) for volume
+***Numpad3*** list of audio streams (the default one is marked first),                        ```hold``` list of subtitles (the default one is marked first), unfortunately ***NumpadDot*** (32-bit only) illogically works as a down arrow, because as written below, the up/down arrow is pressed 5 times (32-bit only) for volume
 
-***B*** add bookmark                                                                                                       ```hold``` open "bookmark editor"
+***B*** add bookmark,                                                                                                       ```hold``` open "bookmark editor"
 <br/>
 ***Enter*** if "bookmark editor" is active then "Enter" opens the selected (arrows) bookmark and closes "bookmark editor"
 <br/>
@@ -56,21 +54,21 @@ Multimedia keys (🟧*00)
 <br/>
 ***Up*** volume +5%
 
-***ESC*** pause+minimize                                                                                               ```hold``` close file
+***ESC*** pause+minimize,                                                                                               ```hold``` close file
 
 ***Z*** zoom (letterbox) -
 <br/>
 ***X*** zoom (letterbox) +
 <br/>
-***C*** zoom/acpect ratio reset 🟩 KMP64X zoom reset
+***C*** zoom/acpect ratio reset ,🟩 KMP64X zoom reset
 
-***PgUp*** acpect ratio cycle                                                                                              ```hold``` zoom/acpect ratio reset
+***PgUp*** acpect ratio cycle,                                                                                              ```hold``` zoom/acpect ratio reset
 <br/>
-🟩 KMP64X - create new "end" hotkey in "Options / Keys / Next AR preset"                                                                 ```hold``` acpect ratio reset
+🟩 KMP64X - create new "end" hotkey in "Options / Keys / Next AR preset",                                                                 ```hold``` acpect ratio reset
 
 ***Enter*** Maximize/Restore Window
 <br/>
-🟩 KMP64X - to keep the same behavior you need to change the default "Enter" to "Ins" because KMP64X doesn't distinguish between NumpadEnter/Enter and stubbornly performs its single default action no matter what
+🟩 KMP64X - to keep the same behavior you need to change the default "Enter" hotkey to "Ins" because KMP64X doesn't distinguish between NumpadEnter/Enter and stubbornly performs its single default action no matter what
 
 ***1234*** window size
 <br/>
@@ -112,9 +110,9 @@ Video - default
 <br/>
 <br/>
 <br/>
-KMPCfg.ini (enable - preferences / general / store settings to...)
+***KMPCfg.ini*** (enable - preferences / general / store settings to...)
 
--enable multimedia keys (🟧*00) ```UseGlobalHotkey=int:1``` ```ConfigKeyForm=int:0``` add this entire code to the end if ...GlobalHotkeyList... is missing
+-enable multimedia keys (🟧*00) ```UseGlobalHotkey=int:1``` ```ConfigKeyForm=int:0``` and add this entire code to the end if ...GlobalHotkeyList... is missing
 <br/>
 ```
 
@@ -131,9 +129,7 @@ N23=int:57417
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-KMPKey.ini
+***KMPKey.ini***
 <br/>
 -to enable hotkeys (🟧*01) add this entire code if ...KMPKey... is missing
 <br/>
