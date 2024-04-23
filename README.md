@@ -1,3 +1,5 @@
+For up to 150% system DPI
+<br/>
 💾***https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/raw/main/skin.rar***
 
 ***Autohotkey v1.1 (KMP 4.2.2.51 - 2021 + Win7 + English QWERTY keyboard layout + CZ QWERTZ)
@@ -74,10 +76,6 @@ Multimedia keys (🟧*00) ,🟩 KMP64X doesn't support global hotkeys
 <br/>
 <br/>
 <br/>
-"White Blue" color theme (RGB 30,40,50). For up to 150% system DPI
-<br/>
-<br/>
-<br/>
 Audio - skin
 <br/>
 <img width="359" alt="AUDIO - BIG" src="https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/assets/127822397/c5e2f4e4-5fc0-429a-bb34-22e16ba263c4">
@@ -112,6 +110,12 @@ Video - default
 <br/>
 ***KMPCfg.ini*** (enable - preferences / general / store settings to...)
 
+-the best volume balance (increasing quiet passages and decreasing loud ones) is achieved with ```AudioUseAutoGain_2=int:1``` ```AudioAutoGainType=int:2```
+
+-automatically switch to fullscreen mode when you open a video file ```FulledWindow=int:0``` ```PlayScreenSize=int:7```
+
+-white blue color theme ```ColorThemeName=str:White Blue```
+
 -enable multimedia keys (🟧*00) ```UseGlobalHotkey=int:1``` ```ConfigKeyForm=int:0``` and add this entire code to the end if ...GlobalHotkeyList... is missing
 <br/>
 ```
@@ -122,8 +126,6 @@ N39=int:57431
 N40=int:57413
 N23=int:57417
 ```
-
--the best volume balance (increasing quiet passages and decreasing loud ones) is achieved with ```AudioUseAutoGain_2=int:1``` ```AudioAutoGainType=int:2```
 
 -permanent hiding the annoying "Album Art" that makes the player UI several times bigger is easily done with ```AudioHeight=int:1``` ```UserDefPosHeight0=int:1``` ```HeightLen=int:1``` ```WindowHeight=int:1```
 <br/>
