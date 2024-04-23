@@ -66,11 +66,11 @@ Multimedia keys (🟧*00) ,🟩 KMP64X doesn't support global hotkeys
 
 ***PgUp*** acpect ratio cycle,                                                                                              ```hold``` zoom/acpect ratio reset
 <br/>
-🟩 KMP64X - create new "end" hotkey in "Options / Keys / Next AR preset",                                                                 ```hold``` acpect ratio reset
+🟩 KMP64X - create new "end" hotkey in "Options / Keys / Next AR preset" (or 🟦*02),                                                                 ```hold``` acpect ratio reset
 
 ***Enter*** Maximize/Restore Window
 <br/>
-🟩 KMP64X - to keep the same behavior you need to change the default "Enter" hotkey to "Ins" because KMP64X doesn't distinguish between NumpadEnter/Enter and stubbornly performs its single default action no matter what
+🟩 KMP64X - to keep the same behavior you need to change the default "Enter" hotkey to "Ins" (or 🟦*02) because KMP64X doesn't distinguish between NumpadEnter/Enter and stubbornly performs its single default action no matter what
 
 ***1234*** window size
 <br/>
@@ -108,18 +108,39 @@ Video - default
 <br/>
 <br/>
 <br/>
-***KMPCfg.ini*** (enable - preferences / general / store settings to...)
+***KMPCfg.ini*** (enable - preferences / general / store settings to...). ***Watch out for the sections***
 
--the best volume balance (increasing quiet passages and decreasing loud ones) is achieved with ```AudioUseAutoGain_2=int:1``` ```AudioAutoGainType=int:2```
-
--automatically switch to fullscreen mode when you open a video file ```FulledWindow=int:0``` ```PlayScreenSize=int:7```
-
--white blue color theme ```ColorThemeName=str:White Blue```
-
--enable multimedia keys (🟧*00) ```UseGlobalHotkey=int:1``` ```ConfigKeyForm=int:0``` and add this entire code to the end if ...GlobalHotkeyList... is missing
-<br/>
+-the best volume balance (increasing quiet passages and decreasing loud ones)
+```
+[\Software\KMPlayer\KMP3.0\OptionArea]
+AudioUseAutoGain_2=int:1
+AudioAutoGainType=int:2
 ```
 
+<br/>
+<br/>
+
+-automatically switch to fullscreen mode when you open a video file
+```
+FulledWindow=int:0
+PlayScreenSize=int:7
+```
+
+<br/>
+<br/>
+
+-white blue color theme
+```
+ColorThemeName=str:White Blue
+```
+
+<br/>
+<br/>
+
+-enable multimedia hotkeys 🟧*00
+```
+UseGlobalHotkey=int:1
+ConfigKeyForm=int:0
 [\Software\KMPlayer\KMP3.0\OptionArea\GlobalHotkeyList]
 N36=int:57425
 N39=int:57431
@@ -127,16 +148,40 @@ N40=int:57413
 N23=int:57417
 ```
 
--permanent hiding the annoying "Album Art" that makes the player UI several times bigger is easily done with ```AudioHeight=int:1``` ```UserDefPosHeight0=int:1``` ```HeightLen=int:1``` ```WindowHeight=int:1```
 <br/>
 <br/>
+
+-permanent hiding the annoying "Album Art" that makes the player UI several times bigger
+```
+[\Software\KMPlayer\KMP3.0]
+AudioHeight=int:1
+[\Software\KMPlayer\KMP3.0\OptionArea]
+UserDefPosHeight0=int:1
+HeightLen=int:1
+WindowHeight=int:1
+```
+
 <br/>
+<br/>
+
 ***KMPKey.ini***
 <br/>
--to enable hotkeys (🟧*01) add this entire code if ...KMPKey... is missing
-<br/>
+-enable hotkeys 🟧*01
 ```
 [KMPKey]
 N516=K
 N501=L
+```
+
+<br/>
+<br/>
+
+***KMPlayer64.ini*** (enable - options / player / store settings in...)
+<br/>
+-enable hotkeys 🟦*02
+<br/>
+```
+[Commands2]
+CommandMod0=830 1 2d "" 5 4 0 4
+CommandMod1=859 1 23 "" 5 0 0 0
 ```
