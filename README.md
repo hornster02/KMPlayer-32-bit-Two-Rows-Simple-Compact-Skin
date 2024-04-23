@@ -10,7 +10,7 @@
 
 Default KMP problems with loss of focus when you must use ALT+TAB or mouse are solved. Some of the hotkeys listed below are not supported by KMP at all and you have to painfully click through the context/menu
 
-Multimedia keys (*00)
+Multimedia keys (🟧*00)
 <br/>
 🟩 KMP64X doesn't support global hotkeys
 <br/>
@@ -34,7 +34,7 @@ Multimedia keys (*00)
 <br/>
 ***Enter*** if "Adjust Subtitle Sync" is active then the written numbers are set,        ```hold``` closes "Adjust Subtitle Sync"
 
-***Numpad1*** audio -0,05s (*01) 🟩 KMP64X -0,01s
+***Numpad1*** audio -0,05s (🟧*01) 🟩 KMP64X -0,01s
 <br/>
 ***Numpad2*** audio +0,05s
 <br/>
@@ -46,7 +46,7 @@ Multimedia keys (*00)
 <br/>
 ***Del*** if "bookmark editor" is active then "Del" remove selected (arrows) bookmark, ```hold``` closes "bookmark editor"
 <br/>
-***P*** open/close playlist (arrows+Enter)
+***P*** playlist (arrows-select, p/esc close, enter-open/close)
 
 ***Left*** previous file
 <br/>
@@ -114,7 +114,7 @@ Video - default
 <br/>
 KMPCfg.ini (enable - preferences / general / store settings to...)
 
--enable multimedia keys (*00) ```UseGlobalHotkey=int:1``` ```ConfigKeyForm=int:0``` add this code to the end if ...GlobalHotkeyList... is missing
+-enable multimedia keys (🟧*00) ```UseGlobalHotkey=int:1``` ```ConfigKeyForm=int:0``` add this code to the end if ...GlobalHotkeyList... is missing
 <br/>
 ```
 
@@ -128,3 +128,17 @@ N23=int:57417
 -the best volume balance (increasing quiet passages and decreasing loud ones) is achieved with ```AudioUseAutoGain_2=int:1``` ```AudioAutoGainType=int:2```
 
 -permanent hiding the annoying "Album Art" that makes the player UI several times bigger is easily done with ```AudioHeight=int:1``` ```UserDefPosHeight0=int:1``` ```HeightLen=int:1``` ```WindowHeight=int:1```
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+KMPKey.ini
+<br/>
+-to enable hotkeys (🟧*01) add this code if ...KMPKey... is missing
+<br/>
+```
+[KMPKey]
+N516=K
+N501=L
+```
