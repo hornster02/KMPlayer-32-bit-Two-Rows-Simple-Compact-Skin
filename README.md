@@ -1,16 +1,10 @@
-For up to 150% system DPI
+***[📥 skin - for up to 150% system DPI](https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/raw/main/skin.rar)
 <br/>
-💾***https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/raw/main/skin.rar***
-
-***Autohotkey v1.1 (KMP 4.2.2.51 - 2021 + Win7 + English QWERTY keyboard layout + CZ QWERTZ)
+[📥 script - Autohotkey v1.1 (KMP 4.2.2.51 - 2021 + Win7 + English QWERTY keyboard layout + CZ QWERTZ)](https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/raw/main/script.rar)
 <br/>
-💾https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/raw/main/script.rar***
-
-***Autohotkey v1.1 (KMP64X 2021.04.27.54 + Win7 + English QWERTY keyboard layout + CZ QWERTZ)
+[📥 script - Autohotkey v1.1 (KMP64X 2021.04.27.54 + Win7 + English QWERTY keyboard layout + CZ QWERTZ)](https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/raw/main/script64x.rar)***
 <br/>
-💾https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/raw/main/script64x.rar***
-
-Default KMP problems with loss of focus when you must use ALT+TAB or mouse are solved. Some of the hotkeys listed below are not supported by KMP at all and you have to painfully click through the context/menu
+Default KMP problems with loss of focus when you must use ALT+TAB or mouse are fixed with script. Some of the hotkeys listed below are not supported by KMP at all and you have to painfully click through the context/menu
 
 Multimedia keys (🟧*00) ,🟩 KMP64X doesn't support global hotkeys
 <br/>
@@ -51,65 +45,50 @@ Multimedia keys (🟧*00) ,🟩 KMP64X doesn't support global hotkeys
 ***Left*** previous file
 <br/>
 ***Right*** next file
-
+<br/>
 ***Down*** volume -5%
 <br/>
 ***Up*** volume +5%
 
-***ESC*** pause+minimize,                                                                                               ```hold``` close file
-
-***Z*** zoom (letterbox) -
+***Z*** zoom- (letterbox)
 <br/>
-***X*** zoom (letterbox) +
+***X*** zoom+ (letterbox)
 <br/>
 ***C*** zoom/acpect ratio reset ,🟩 KMP64X zoom reset
-
+<br/>
 ***PgUp*** acpect ratio cycle,                                                                                              ```hold``` zoom/acpect ratio reset
 <br/>
 🟩 KMP64X - create new "end" hotkey in "Options / Keys / Next AR preset" (or 🟦*02),                                                                 ```hold``` acpect ratio reset
 
+***ESC*** pause+minimize,                                                                                               ```hold``` close file
+<br/>
+***1234*** window size
+<br/>
 ***Enter*** Maximize/Restore Window
 <br/>
 🟩 KMP64X - to keep the same behavior you need to change the default "Enter" hotkey to "Ins" (or 🟦*02)
-
-***1234*** window size
 <br/>
-<br/>
-<br/>
-Audio - skin
 <br/>
 <img width="359" alt="AUDIO - BIG" src="https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/assets/127822397/c5e2f4e4-5fc0-429a-bb34-22e16ba263c4">
-<br/>
-Audio - default
-<br/>
-<img width="356" alt="AUDIO - BIG-DEF" src="https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/assets/127822397/9126875b-991f-4f0d-b0b5-151e1b6d6ab4">
-<br/>
 <img width="128" alt="AUDIO - COMPACT" src="https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/assets/127822397/4fb9edd4-a916-40b6-a826-24b43583c162">
-<br/>
 <img width="64" alt="AUDIO - COMPACT SUPER" src="https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/assets/127822397/6846e787-d9de-4403-b418-f879d75d3003">
 <br/>
-<br/>
-<br/>
+<img width="356" alt="AUDIO - BIG-DEF" src="https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/assets/127822397/9126875b-991f-4f0d-b0b5-151e1b6d6ab4">
+
 Just reducing the gamma in the system makes the original skin quite unusable. Combined with the brightness and contrast reduction, it is almost invisible
 <br/>
-<img width="359" alt="AUDIO - BIG-GAMMA" src="https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/assets/127822397/a666afef-4a1b-4986-a04c-5e3a682501b5">
-<br/>
 <img width="356" alt="AUDIO - BIG-DEF-GAMMA" src="https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/assets/127822397/7b168bc9-4096-4c8c-a725-c9d2734efa42">
-<br/>
-<br/>
-<br/>
-Video - skin
-<br/>
+<img width="359" alt="AUDIO - BIG-GAMMA" src="https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/assets/127822397/a666afef-4a1b-4986-a04c-5e3a682501b5">
+
 <img width="1280" alt="VIDEO3" src="https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/assets/127822397/fda73216-321e-4424-a3af-b7bb4568815a">
-<br/>
-Video - default
-<br/>
+
 <img width="1280" alt="VIDEO-DEF" src="https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/assets/127822397/fe0a3872-6b27-4861-bc64-9034a05d11e6">
 <br/>
 <br/>
 <br/>
-***KMPCfg.ini*** (enable - preferences / general / store settings to...). ***Watch out for the sections***
 
+***KMPCfg.ini*** (enable - preferences / general / store settings to...). ***Watch out for the sections***
+<br/>
 The best volume balance (increasing quiet passages and decreasing loud ones)
 ```
 [\Software\KMPlayer\KMP3.0\OptionArea]
