@@ -2,8 +2,10 @@
 <br/>
 [📥 script - Autohotkey v1.1 (KMP 4.2.2.51 - 2021 + Win7 + English QWERTY keyboard layout + CZ QWERTZ)](https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/raw/main/script.rar)
 <br/>
-[📥 script - Autohotkey v1.1 (KMP64X 2021.04.27.54 + Win7 + English QWERTY keyboard layout + CZ QWERTZ)](https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/raw/main/script64x.rar)***
+[📥 script - Autohotkey v1.1 (KMP64X 2021.04.27.54 + Win7 + English QWERTY keyboard layout + CZ QWERTZ)](https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/raw/main/script64x.rar)
 <br/>
+[📥 config - KMP 4.2.2.51 - 2021 (skin, hotkeys, disabled 3D Audio, volume normalizer, orange/black subtitles, open video files with hidden GUI in fullscreen+restore window when finished/closed, audio files in "Two Rows" height)](https://github.com/hornster02/KMPlayer-32-bit-Two-Rows-Simple-Compact-Skin/raw/main/config-4.2.2.51.rar)***
+
 Default KMP problems with loss of focus when you must use ALT+TAB or mouse are fixed with script. Some of the hotkeys listed below are not supported by KMP at all and you have to painfully click through the context/menu
 
 Multimedia keys (🟧*00) ,🟩 KMP64X doesn't support global hotkeys
